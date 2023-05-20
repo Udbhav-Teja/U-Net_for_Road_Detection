@@ -1,4 +1,3 @@
-# U-Net_for_Road_Detection is 
 
 # U-Net for Road Detection
 
